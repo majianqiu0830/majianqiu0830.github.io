@@ -1,0 +1,10 @@
+:root{
+    --red:red;
+}
+
+:root{
+    --true_bg:var(--red);
+}
+.bg{
+    background-color: var(--true_bg);
+}
